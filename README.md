@@ -1,13 +1,13 @@
 # Entity-Framework-Poc
-Proof of concept using Entity Framework Code First and Database First approaches.
+Proof of concept using Entity Framework Code First (with help of EF Power Tools) and Database First approaches.
 
 ## References
 
-For the code first approach, I used the "Entity Framework Power Tools" to make my life easier. After runed it, you could fixed manually the mappings.
+For the code first approach, I used the "Entity Framework Power Tools" to make my life easier. It will generate the mappings from an existing database. After executed it, you can fix manually the mappings. 
 
 https://visualstudiogallery.msdn.microsoft.com/72a60b14-1581-4b9b-89f2-846072eff19d
 
-This is a good reference:
+This is a good and simple book reference:
 
 https://www.syncfusion.com/resources/techportal/details/ebooks/entityframework
 
